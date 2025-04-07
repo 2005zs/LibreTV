@@ -25,7 +25,11 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv',
     },
-    
+    sllzy: {
+         api: 'http://360zy.com',
+         name: '360影视',
+         detail: 'http://360zy.com',
+     },
 };
 
 // 抽象API请求配置
