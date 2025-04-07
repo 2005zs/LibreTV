@@ -30,11 +30,6 @@ const API_SITES = {
         name: '360影视',
         detail: 'http://360zy.com',
     },
-    aidianying: {
-        api: 'https://www.gs4x7nq4.com/',
-        name: '爱电影',
-        detail: 'https://www.gs4x7nq4.com/',
-    },
 };
 
 // 抽象API请求配置
