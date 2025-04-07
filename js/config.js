@@ -15,11 +15,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    sllzy: {
-         api: 'http://360zy.com',
-         name: '360影视',
-         detail: 'http://360zy.com',
-     },
     heimuer: {
         api: 'https://json.heimuer.xyz',
         name: '黑木耳',
